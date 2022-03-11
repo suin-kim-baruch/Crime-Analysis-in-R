@@ -1,6 +1,6 @@
 
 #importing data
-Crime <- read.csv("/Users/suinkim/Desktop/STA3000/Project/Crime_Data_from_2010_to_2019.csv")
+Crime <- read.csv("~/Crime_Data_from_2010_to_2019.csv")
 View(Crime)
 
 #learning more about the data
